@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TODO Make comments -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#c5cae9</color>
+    <color name="colorDivider">#bdbdbd</color>
+    <color name="colorAccent">#ffc107</color>
+    <color name="mark1">#04B4B3</color>
+    <color name="mark2">#F5A623</color>
+    <color name="mark3">#FC6644</color>
+    <color name="mark4">#E13A20</color>
+    <color name="mark5">#C03823</color>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <!-- TODO Make comments -->
+    <string name="app_name">Webnotes - School marks</string>
+    <string name="maths">Maths</string>
+    <string name="english">English</string>
+    <string name="czech">Czech</string>
+    <string name="history">History</string>
+    <string name="physics">Physics</string>
+    <string name="global_edu">Global education</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="subjects">Subjects</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_login">Login</string>
+    <string name="prompt_remember_me">Remember me</string>
+    <string name="success_login">Successful login</string>
+    <string name="subjects_avg">Total average</string>
+    <string name="subjects_worst_avg">The worst average</string>
+    <string name="dashboard_disabled_message1">Disabled</string>
+    <string name="resresh_success">Refreshed successfuly</string>
+    <string name="no_subjects_found">No subjects found</string>
+    <string name="wrong_password_or_username">Wrong password or username</string>
+    <string name="ok_dialog">Ok</string>
+    <string name="about_developer">Developer: Erik Stoklasa</string>
+    <string name="about_release_date">Release year: 2017</string>
+    <string name="about_copyright" translatable="false">Copyright ©</string>
+</resources>

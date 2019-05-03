@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TODO Make comments -->
+    <string name="app_name">Webnotes - známky, grafy</string>
+    <string name="action_sign_in"></string>
+    <string name="action_sign_in_short">Přihlásit se</string>
+    <string name="error_field_required">Toto pole je požadované</string>
+    <string name="prompt_login">Přihlašovací jméno</string>
+    <string name="prompt_password">Heslo</string>
+    <string name="prompt_remember_me">Zapamatovat</string>
+    <string name="subjects">Předměty</string>
+    <string name="dashboard">Řídící panel</string>
+    <string name="success_login">Úspěšně přihlášen</string>
+    <string name="subjects_avg">Celkový průměr</string>
+    <string name="subjects_worst_avg">Nejhorší průměr</string>
+    <string name="dashboard_disabled_message1">Zakázáno</string>
+    <string name="resresh_success">Úspěšně aktualizováno</string>
+    <string name="no_subjects_found">Nenalezeny žádné předměty</string>
+    <string name="wrong_password_or_username">Špatné heslo nebo login</string>
+    <string name="ok_dialog">Rozumím</string>
+    <string name="about_developer">Vývojář: Erik Stoklasa</string>
+    <string name="about_release_date">Rok vydání: 2017</string>
+</resources>
